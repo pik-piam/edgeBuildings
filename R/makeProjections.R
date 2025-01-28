@@ -33,7 +33,7 @@
 #' @returns data.frame with added projection
 #'
 #' @importFrom quitte mutate_text
-#' @importFrom dplyr rename_ select
+#' @importFrom dplyr rename_ select one_of
 #' @importFrom stats lm nls coef
 
 
