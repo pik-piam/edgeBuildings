@@ -55,7 +55,7 @@ In case of questions / problems please contact Robin Hasse <robin.hasse@pik-pots
 
 To cite package **edgebuildings** in publications use:
 
-Levesque A, Hasse R, Tockhorn H, Rosemann R, Führlich P (2024). _edgebuildings: Model for the projection of global energy demand in the buildings sector_. R package version 0.3.7.
+Levesque A, Hasse R, Tockhorn H, Rosemann R, Führlich P (2025). _edgebuildings: Model for the projection of global energy demand in the buildings sector_. R package version 0.3.7.
 
 A BibTeX entry for LaTeX users is
 
@@ -63,7 +63,7 @@ A BibTeX entry for LaTeX users is
 @Manual{,
   title = {edgebuildings: Model for the projection of global energy demand in the buildings sector},
   author = {Antoine Levesque and Robin Hasse and Hagen Tockhorn and Ricarda Rosemann and Pascal Führlich},
-  year = {2024},
+  year = {2025},
   note = {R package version 0.3.7},
 }
 ```

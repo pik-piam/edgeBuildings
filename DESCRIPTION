@@ -51,6 +51,7 @@ Imports:
   stringr,
   targets,
   tidyr,
+  tidyselect,
   utils,
   yaml,
   zoo
@@ -60,5 +61,5 @@ Suggests:
   rmarkdown,
   rprojroot,
   xmpdf
-Date: 2024-12-12
+Date: 2025-02-04
 VignetteBuilder: knitr
